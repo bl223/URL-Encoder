@@ -1,0 +1,6 @@
+/Users/bryceligaya/Desktop/URL-Encoder/URL-Encoder/bin/Debug/URL-Encoder.exe
+/Users/bryceligaya/Desktop/URL-Encoder/URL-Encoder/bin/Debug/URL-Encoder.pdb
+/Users/bryceligaya/Desktop/URL-Encoder/URL-Encoder/obj/x86/Debug/URL-Encoder.csprojResolveAssemblyReference.cache
+/Users/bryceligaya/Desktop/URL-Encoder/URL-Encoder/obj/x86/Debug/URL-Encoder.csproj.CoreCompileInputs.cache
+/Users/bryceligaya/Desktop/URL-Encoder/URL-Encoder/obj/x86/Debug/URL-Encoder.exe
+/Users/bryceligaya/Desktop/URL-Encoder/URL-Encoder/obj/x86/Debug/URL-Encoder.pdb
